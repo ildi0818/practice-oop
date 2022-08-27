@@ -1,0 +1,13 @@
+Először eldöntjük milyen osztályra van szükségünk:
+-Projectlist
+-projectitem
+-tooltip osztályra
+-app osztály
+
+működjenek a gombok
+eseményfigyelők
+tömbök
+
+1.először app class kidolgozása,statikus függvénnyel
+2. Projectlist
+3. ProjectItem
